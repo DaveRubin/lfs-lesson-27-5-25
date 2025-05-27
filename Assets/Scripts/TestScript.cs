@@ -6,7 +6,7 @@ public class TestScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Debug.Log("Start");
+        Debug.Log("Start dsafsdf");
     }
 
     // Update is called once per frame
